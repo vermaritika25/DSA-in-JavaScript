@@ -7,7 +7,7 @@
 </p>
 
 ## Features
-
+# Ritika
 📚 Comprehensive Content Series
 
 🎯 Perfect for Frontend Devs
